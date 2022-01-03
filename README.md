@@ -5,4 +5,4 @@
 
 Deploy at Vercel...
 
-If you want to see it:  https://mastercard-landing-page.vercel.app/
+In case you want to see it:  https://mastercard-landing-page.vercel.app/
